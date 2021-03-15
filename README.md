@@ -1,3 +1,3 @@
 # TributePage
 
-This will be the start of my front-end journey.
+My first HTML/CSS project about Naruto's author Masashi Kishimoto
